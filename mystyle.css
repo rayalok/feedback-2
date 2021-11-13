@@ -1,0 +1,62 @@
+ body { 
+     background-image: url(../aaa.jpg);
+     background-size: cover;
+ }
+
+ .wrap {
+     width:900px;
+     height:800px;
+     border:2px solid red;
+     margin: 30px auto;
+ }
+
+ 
+ h1 
+ {
+     font-size: 70px;
+     color:black;
+     text-align: center;
+     border-bottom: 2px solid white;
+
+
+ }
+ table{font-size: 30px;}
+ td {
+    padding: 10px 20px 0px 0px; 
+
+ }
+
+ .txt
+ {
+     width:400px;
+     height:40Px;
+     border-radius: 8px;
+
+ }
+
+ .txtarea
+ {
+    width:830px;
+    height:150Px;
+    border-radius: 8px;
+     
+ }
+
+ .btn
+ {
+    width:830px;
+    height:50Px;
+    background-color: darkblue;
+    border-radius: 8px;
+    font-size: 20px;
+    color: white;
+      
+ }
+
+ .myform {
+
+ }
+
+
+ 
+
